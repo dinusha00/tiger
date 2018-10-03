@@ -1,6 +1,6 @@
 name := "tiger"
 
-version := "0.1"
+version := "4.0"
 
 scalaVersion := "2.11.11"
 
